@@ -37,9 +37,9 @@ Dans le scénario d'entreprise RAID-A-PORTER, Mattermost joue le rôle de l'outi
 
 ## Repos liés
 
-- `zabbix-notifications-mattermost`
-- `wazuh-notifications-mattermost`
-- `glpi-notifications-mattermost`
+- [`zabbix-notifications-mattermost`](https://github.com/L-VSIX/zabbix-notifications-mattermost)
+- [`wazuh-notifications-mattermost`](https://github.com/L-VSIX/wazuh-notifications-mattermost)
+- [`glpi-notifications-mattermost`](https://github.com/L-VSIX/glpi-notifications-mattermost)
 
 ## Auteur
 
